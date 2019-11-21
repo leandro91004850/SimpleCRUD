@@ -14,4 +14,11 @@ and then in the project open Models/workshopDB.edmx.sql right click inside the f
 
 5- Go back to Server Explorer and right click WorkshopDBContainer -> Modify Connection then browse to the path of your database
 
-6- Go to web.config and edit the path of database for me it's ( C:\Users\Ilias\workshopDatabase.mdf )
+6- Go to web.config and edit the path of database for me it's ( C:\Users\leand\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\MSSQLLocalDB\workshopDatabase.mdf)
+
+
+EM CASO DE ERROS SEGUE DICAS ABAIXOS: 
+
+
+http://prntscr.com/pzbqyk
+
